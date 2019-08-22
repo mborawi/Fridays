@@ -23,7 +23,7 @@ Fancy using R and dplyr? python3, numpy and pandas? SQL and stored procedures? B
 Feel free to do so! your boss only cares for accurate and timely results.
 
 ## Sanity Check
-The solution you develop should run fast (boss standing on your desk waiting, unless u like them standing there) and use reasonable amount of resources (should be able to run on your 5 year old laptop) while returning the correct results.
+The solution you develop should run fast (boss standing by your desk waiting, unless u like them standing there) and use reasonable amount of resources (should be able to run on your 5 year old laptop) while returning the correct results.
 
 ## how to genrate the said dataset
 + git clone this library into your $GOPATH
