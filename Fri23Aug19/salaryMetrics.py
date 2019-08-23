@@ -4,7 +4,7 @@ import csv
 import math
 # import pandas as pd
 
-csvPath = '/home/chentduren/go/src/github.com/mborawi/Fridays/Fri23Aug19/salaries.csv'
+csvPath = './salaries.csv'
 columnNum = 2
 
 n = 0
@@ -31,7 +31,7 @@ sampleMean = total / n
 
 sumDifferencesSquared = 0
 minSalary = maxSalary
-
+salary = 0
 # Get stdev and min of column 3
 with open(csvPath) as csvFile:
 	csvReader = csv.reader(csvFile, delimiter=',')
