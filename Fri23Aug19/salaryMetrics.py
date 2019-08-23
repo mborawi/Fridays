@@ -30,7 +30,7 @@ with open(csvPath) as csvFile:
 sampleMean = total / n
 
 sumDifferencesSquared = 0
-minSalary = 
+minSalary = maxSalary
 
 # Get stdev and min of column 3
 with open(csvPath) as csvFile:
