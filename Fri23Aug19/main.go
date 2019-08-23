@@ -23,7 +23,7 @@ func main() {
 	w := bufio.NewWriter(f)
 	defer w.Flush()
 	fmt.Println("Saving data to file, this might take a while ( ~15 mins ), coffee time!")
-	fmt.Fprintf(w, "salary1,salary2,salary4,salary4\n")
+	fmt.Fprintf(w, "salary1,salary2,salary3,salary4\n")
 	fmt.Printf("Progress: ... 0.00%%")
 	prgress := 1.0 // every 1%
 	for i := 1; i <= N; i++ {
