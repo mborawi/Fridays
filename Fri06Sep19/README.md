@@ -40,3 +40,5 @@ previous example:
 
 -46,91,68,8,88,11,71,80,27,38,13,71,100,89,57,-33,83,54,90,96,60,36,76,53,29:100,89,57,38,27,8\n
 
+> I have heard a story that the best way the find the most comfortable path downhill from a hill is to let [a donkey lead the way](https://www.smithsonianmag.com/travel/moroccos-extraordinary-donkeys-40973739/)! not sure how accurate is this, but I guess it inspired the theme for this challenge.
+
