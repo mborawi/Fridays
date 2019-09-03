@@ -19,6 +19,7 @@ Robo-donkey moves only in N,W,E,S directions when possible... earth is flat in c
 
 ### Solution:
 Robo-Donkey's Path of least steep decline
+
 |C/R| __C1__ | __C2__ | __C3__| __C4__ | __C5__ |
 |:--:|:----: |:----:|:----:|:----:|:----:|
 |__R1__|-46 | 91 | 68 | 8 &#x1F44C; | 88  |
