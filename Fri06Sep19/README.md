@@ -6,6 +6,7 @@ Find the least steepest way downhill.
 Once u reach a location where neighboring locations are of the same altitude or higher, stop moving
 
 ### Example:
+||| |
 :----: |:----:|:----:|:----:|:----:
 -46 | 91 | 68 | 8 | 88  
 11 | 71 | 80 | 27 | 38  
