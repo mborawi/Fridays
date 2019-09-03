@@ -6,13 +6,13 @@ Find the least steepest way downhill.
 Once u reach a location where neighboring locations are of the same altitude or higher, stop moving
 
 ### Example:
-||| |
-:----: |:----:|:----:|:----:|:----:
--46 | 91 | 68 | 8 | 88  
-11 | 71 | 80 | 27 | 38  
-13 | 71 | 100 | 89 | 57  
--33 | 83 | 54 | 90 | 96 
-60 | 36 | 76 | 53 | 29
+|C/R| __C1__ | __C2__ | __C3__| __C4__ | __C5__ |
+|:--:|:----: |:----:|:----:|:----:|:----:|
+|__R1__|-46 | 91 | 68 | 8 | 88  |
+|__R2__| 11 | 71 | 80 | 27 | 38  |
+|__R3__|13 | 71 | 100 | 89 | 57  |
+|__R4__| -33 | 83 | 54 | 90 | 96 |
+|__R5__| 60 | 36 | 76 | 53 | 29|
 
 ### Solution:
 Path of least steep decline
