@@ -17,7 +17,7 @@ donkeyrob moves only in N,W,E,S directions when possible ..earth is flat in case
 
 ### Solution:
 Path of least steep decline
-100 89 57 38 27 8
+100 -> 89 -> 57 -> 38 -> 27 ->  8
 
 ### Data:
 File name will indicate grid size and wether it contains solution
