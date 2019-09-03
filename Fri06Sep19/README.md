@@ -5,7 +5,7 @@ and starting from center cell of the grid find the least steepest way downhill.
 
 Once u reach a location where neighboring locations are of the same altitude or higher, stop moving.
 
-donkeyrob moves only in N,W,E,S directions when possible ..earth is flat in case u missed that memo ت
+Robo-donkey moves only in N,W,E,S directions when possible ..earth is flat in case u missed that memo ت
 
 ### Example:
 |C/R| __C1__ | __C2__ | __C3__| __C4__ | __C5__ |
