@@ -31,7 +31,7 @@ Robo-Donkey's Path of least steep decline
 100 -> 89 -> 57 -> 38 -> 27 ->  8
 
 ### Data:
-File name will indicate grid size and wether it contains solution.
+File name will indicate grid size and wether it contains a solution.
 
 
 Each line will be a grid represents as comma sepearated altitudes, if solution is available it will be after a colon.
