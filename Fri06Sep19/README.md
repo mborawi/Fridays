@@ -1,9 +1,9 @@
 ## The lazy donkey
 
 Given a grid of x by x where x is an odd number (5x5, 9x9 etc)
-and starting from center cell of the grid find the least steepest way downhill.
+and a robo-donkey positioned at center cell of the grid help it find the least steepest way downhill.
 
-Once u reach a location where neighboring locations are of the same altitude or higher, stop moving.
+Once robo-donkey reachs a location where neighboring locations are of the same altitude or higher, it stops moving.
 
 Robo-donkey moves only in N,W,E,S directions when possible... earth is flat in case u missed that memo ت
 
@@ -17,7 +17,7 @@ Robo-donkey moves only in N,W,E,S directions when possible... earth is flat in c
 |__R5__| 60 | 36 | 76 | 53 | 29|
 
 ### Solution:
-Path of least steep decline
+Robo-Donkey's Path of least steep decline
 
 100 -> 89 -> 57 -> 38 -> 27 ->  8
 
